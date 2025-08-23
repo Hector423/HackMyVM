@@ -11,6 +11,8 @@ Con gobuster realizo un escaneo en busqueda de rutas ocultas del servicio http
 
 ![](NightCity/Imagenes/Pasted%20image%2020250822202009.png)
 
+![](NightCity/Imagenes/Pasted%20image%2020250822202009.png)
+
 
 ## Fase de explotación
 
