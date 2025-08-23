@@ -6,7 +6,7 @@
 Primero hago un reconocimiento de los servicios que tiene el sistema:
 
 ![](HackMyVM/NightCity/Imagenes/imagen1.png)
-![imagen1.png](Imagenes/imagen1.png)
+![](Imagenes/imagen1.png)
 
 Con gobuster realizo un escaneo en busqueda de rutas ocultas del servicio http
 
