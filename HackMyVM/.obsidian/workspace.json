@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "069a9a71323e9fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a13fff1222ef0e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4195677d07718d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NightCity/NightCity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NightCity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "844dac703e8d3091",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9cec3a2f12ce402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b5690ca7c840250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "678ed32714796715",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b335eeffae686190",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96cb37139d4ee030",
+    "type": "split",
+    "children": [
+      {
+        "id": "e042c19a254be888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07905f65763df7e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NightCity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NightCity"
+            }
+          },
+          {
+            "id": "7498d9ae99e8d0c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NightCity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NightCity"
+            }
+          },
+          {
+            "id": "2e48fca95b9888e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c6d83689335d14b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NightCity.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NightCity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9b5690ca7c840250",
+  "lastOpenFiles": [
+    "NightCity/Imagenes/Pasted image 20250822202009.png",
+    "NightCity/Imagenes/Pasted image 20250822200131.png",
+    "NightCity/NightCity.md",
+    "NightCity/Imagenes",
+    "NightCity",
+    "Welcome.md",
+    "NightCity"
+  ]
+}
