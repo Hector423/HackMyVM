@@ -11,14 +11,12 @@
             "id": "fc4195677d07718d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NightCity/NightCity.md",
-                "mode": "source",
-                "source": false
+                "file": "NightCity/Imagenes/imagen1.png"
               },
-              "icon": "lucide-file",
-              "title": "NightCity"
+              "icon": "lucide-image",
+              "title": "imagen1"
             }
           }
         ]
@@ -171,18 +169,21 @@
   },
   "active": "fc4195677d07718d",
   "lastOpenFiles": [
-    "NightCity/Imagenes/Pasted image 20250825163043.png",
-    "NightCity/NightCity.md",
-    "NightCity/Imagenes/Pasted image 20250825195325.png",
+    "NightCity/Imagenes/Pasted image 20250822202009.png",
     "NightCity/Imagenes/Pasted image 20250825195252.png",
-    "NightCity/Imagenes/Pasted image 20250825194555.png",
-    "NightCity/Imagenes/Pasted image 20250825194154.png",
-    "NightCity/Imagenes/Pasted image 20250825191023.png",
-    "NightCity/Imagenes/Pasted image 20250825191002.png",
-    "NightCity/Imagenes/Pasted image 20250825190823.png",
-    "NightCity/Imagenes/Pasted image 20250825190646.png",
-    "NightCity/Imagenes/Pasted image 20250825190622.png",
-    "NightCity/Imagenes/Pasted image 20250825190531.png",
+    "NightCity/Imagenes/Pasted image 20250825195325.png",
+    "NightCity/Imagenes/Pasted image 20250825180158.png",
+    "Luz/Imagenes/Pasted image 20250913190803.png",
+    "Luz/Imagenes/Pasted image 20250914131816.png",
+    "Luz/Imagenes/Pasted image 20250913201732.png",
+    "Luz/Luz.md",
+    "Luz/Imagenes/Pasted image 20250914131738.png",
+    "Luz/Imagenes/Pasted image 20250914125055.png",
+    "Luz/Imagenes/Pasted image 20250914125038.png",
+    "Luz/Imagenes/Pasted image 20250914124437.png",
+    "NightCity/NightCity.md",
+    "Luz/Imagenes",
+    "Luz",
     "NightCity/Imagenes",
     "NightCity",
     "Welcome.md",
